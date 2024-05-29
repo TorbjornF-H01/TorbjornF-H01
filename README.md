@@ -1,6 +1,5 @@
-<div align="center">
-  ![](https://github.com/TorbjornF-H01/TorbjornF-H01/blob/main/GithubProfile/pepe_gif.gif)
-</div>
+
+![](https://github.com/TorbjornF-H01/TorbjornF-H01/blob/main/GithubProfile/pepe_gif.gif)
 
 ###
 
