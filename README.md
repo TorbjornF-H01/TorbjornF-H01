@@ -58,14 +58,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TorbjornF-H01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=TorbjornF-H01&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorbjornF-H01&theme=radical&layout=compact" />
 </div>
 
-###
- <div align="center">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TorbjornF-H01&theme=tokyonight)
- </div>
 ###
 
 <img src="https://raw.githubusercontent.com/TorbjornF-H01/TorbjornF-H01/output/snake.svg" alt="Snake animation" />
