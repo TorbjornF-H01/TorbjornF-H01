@@ -59,8 +59,8 @@
 ###
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=TorbjornF-H01&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorbjornF-H01&theme=radical&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=TorbjornF-H01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=TorbjornF-H01&theme=tokyonight" />
 </div>
 
 ###
