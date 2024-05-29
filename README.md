@@ -63,6 +63,8 @@
 </div>
 
 ###
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TorbjornF-H01&hide=javascript,css,scss,html&theme=tokyonight)
+###
 
 <img src="https://raw.githubusercontent.com/TorbjornF-H01/TorbjornF-H01/output/snake.svg" alt="Snake animation" />
 
