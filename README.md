@@ -55,8 +55,8 @@
 ###
 
 <div style="display: flex; flex-direction: row;">
-<img src="https://streak-stats.demolab.com?user=TorbjornF-H01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=TorbjornF-H01&theme=transparent" />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=TorbjornF-H01&theme=transparent" />
+  <img src="https://streak-stats.demolab.com?user=TorbjornF-H01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
