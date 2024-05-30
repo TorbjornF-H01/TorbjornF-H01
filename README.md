@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img alt="GIF" src="https://github.com/TorbjornF-H01/TorbjornF-H01/blob/main/GithubProfile/cat-explosion.gif"
+  <img alt="GIF" src="https://github.com/TorbjornF-H01/TorbjornF-H01/blob/main/GithubProfile/Screens.gif"
 </div>
 
 ###
