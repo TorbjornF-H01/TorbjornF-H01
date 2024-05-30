@@ -7,7 +7,7 @@
 ###
 
 
-<h1 align="center">Hey There! I am Torbjorn</h1> <img alt="GIF" src="GithubProfile/Hi.gif" width="30" />
+<h1 align="center">Hey There! I am Torbjorn <img alt="GIF" src="GithubProfile/Hi.gif" width="40" /></h1>
 
 ###
 
