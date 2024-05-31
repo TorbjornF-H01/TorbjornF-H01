@@ -15,7 +15,7 @@
 
 ###
 
-- <img alt="GIF" src="GithubProfile/Developer.gif" width="25" /> &nbsp; I’m currently learning **C#, Microsoft SQL, .NET, HTML, CSS, Git
+- <img alt="GIF" src="GithubProfile/Developer.gif" width="25" /> &nbsp; I’m currently learning ** C#, Microsoft SQL, .NET, HTML, CSS, Git
 **.<br>
 - <img src="GithubProfile/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **new tech & memes**. <br>
 - <img src="GithubProfile/message.gif" width="25" />&nbsp;&nbsp; Ask me about **movies, games or anything**. <br>
