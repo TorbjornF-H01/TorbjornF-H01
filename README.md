@@ -13,6 +13,9 @@
 
 <h3 align="left">👨‍💻  About Me</h3>
 
+<p> I am studying full-stack development at Kodehode, where I have gained basic knowledge in C#, .NET, Microsoft SQL, CSS, Git, and Microsoft Azure. I am focused on further developing my skills in C# and .NET, and I find it exciting to see how things are built. I look forward to building on these skills and learning more in a job. In my free time, I enjoy gaming, movies, and traveling, especially to London to cheer on Tottenham. </p>
+
+
 ###
 
 - <img alt="GIF" src="GithubProfile/Developer.gif" width="25" /> &nbsp; I’m currently learning **C#, Microsoft SQL, DotNET, HTML, CSS, Git & Microsoft Azure**.<br>
