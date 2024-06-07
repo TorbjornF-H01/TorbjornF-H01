@@ -5,7 +5,7 @@
 
 ###
 
-[![English](https://img.shields.io/badge/English-🇺🇸-blue)](README.md)
+[Klikk for English version <img src="GithubProfile/Britishflag.png" alt="English" width="25" height="25">](README.md)
 
 <h1 align="center">Hei der! Jeg er Torbjørn <img alt="GIF" src="GithubProfile/Hi.gif" width="40" /></h1>
 
