@@ -4,7 +4,7 @@
 </div>
 
 ###
-Click for Norsk version <img src="GithubProfile/Norge.png" alt="Norsk" width="25" height="25">](README.nor.md)
+[Click for Norsk version <img src="GithubProfile/Norge.png" alt="Norsk" width="25" height="25">](README.nor.md)
 <h1 align="center">Hey There! I'am Torbjorn <img alt="GIF" src="GithubProfile/Hi.gif" width="40" /></h1>
 
 
