@@ -4,7 +4,7 @@
 </div>
 
 ###
-[<span style="display: inline-flex; align-items: center;">Click for Norsk version <img src="GithubProfile/Norge.png" alt="Norsk" width="30" height="25" style="margin-left: 5px vertical-align: middle;"></span>](README.nor.md)
+[<span style="display: inline-flex; align-items: center;">Click for Norwegian version <img src="GithubProfile/Norge.png" alt="Norsk" width="30" height="25" style="margin-left: 5px vertical-align: middle;"></span>](README.nor.md)
 <h1 align="center">Hey There! I'am Torbjorn <img alt="GIF" src="GithubProfile/Hi.gif" width="40" /></h1>
 
 
