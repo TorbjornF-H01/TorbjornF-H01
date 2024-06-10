@@ -22,7 +22,7 @@
 - <img alt="GIF" src="GithubProfile/Developer.gif" width="25" /> &nbsp; Jeg lærer for øyeblikket **C#, Microsoft SQL, DotNET, HTML, CSS, Git og Microsoft Azure**.<br>
 - <img src="GithubProfile/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; Jeg liker å utforske **ny teknologi og memes**. <br>
 - <img src="GithubProfile/message.gif" width="25" />&nbsp;&nbsp; Spør meg om **filmer, spill eller hva som helst**. <br>
-- &nbsp;&nbsp;<img src="GithubProfile/lightning.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; `Virkelig visdom er å vite hva en ikke vet´´ -Sokrates.<br>
+- &nbsp;&nbsp;<img src="GithubProfile/lightning.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; "Virkelig visdom er å vite hva en ikke vet´´ -Sokrates.<br>
 
 ###
 
