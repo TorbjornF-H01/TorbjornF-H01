@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">👨‍💻  Om meg</h3>
+<h3 align="left">👨‍💻 Om meg</h3>
 
 <p> Jeg studerer full-stack utvikling hos Kodehode, hvor jeg har fått grunnleggende kunnskap i C#, .NET, Microsoft SQL, CSS, Git og Microsoft Azure. Jeg er fokusert på å videreutvikle ferdighetene mine i C# og .NET, og jeg synes det er spennende å se hvordan ting blir bygget. Jeg ser frem til å bygge videre på disse ferdighetene og lære mer i en jobb. På fritiden liker jeg gaming, filmer og reising, spesielt til London for å heie på Tottenham. </p>
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🔥   Mine statistikker :</h3>
+<h3 align="left">🔥 Mine statistikker :</h3>
 
 ###
 
