@@ -9,7 +9,6 @@
 
 <h1 align="center">Hei der! Jeg er Torbjørn <img alt="GIF" src="GithubProfile/Hi.gif" width="40" /></h1>
 
-
 ###
 
 <h3 align="left">👨‍💻 Om meg</h3>
