@@ -15,7 +15,6 @@
 
 <p> Jeg studerer full-stack utvikling hos Kodehode, hvor jeg har fått grunnleggende kunnskap i C#, .NET, Microsoft SQL, CSS, Git og Microsoft Azure. Jeg er fokusert på å videreutvikle ferdighetene mine i C# og .NET, og jeg synes det er spennende å se hvordan ting blir bygget. Jeg ser frem til å bygge videre på disse ferdighetene og lære mer i en jobb. På fritiden liker jeg gaming, filmer og reising, spesielt til London for å heie på Tottenham. </p>
 
-
 ###
 
 - <img alt="GIF" src="GithubProfile/Developer.gif" width="25" /> &nbsp; Jeg lærer for øyeblikket **C#, Microsoft SQL, DotNET, HTML, CSS, Git og Microsoft Azure**.<br>
